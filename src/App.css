@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.large {
+  font-size: 80px;
+  font-weight: bold;
+  color: #4e89ae;
+}
+
+h2 {
+  color: #4e89ae;
+}
+
+h3 {
+  color: #4e89ae;
+}
+
+h4 {
+  text-align: center;
+  color: #bbbbbb;
+}
+
+h5 {
+  text-align: center;
+  color: #bbbbbb;
+}
+
+.weather-app-wrapper {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.weather-app-wrapper .footer {
+  text-align: left;
+}
